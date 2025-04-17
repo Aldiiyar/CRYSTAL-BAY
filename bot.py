@@ -9,10 +9,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 import logging
-# import datetime # <-- Раскомментируйте, если нужно для проверки високосного года позже
 
-# --- Конфигурация ---
-# !!! ВАЖНО: Убедитесь, что токен и имя БД верны !!!
 BOT_TOKEN = '8168035111:AAH89w2v-QowtdKaCqemOcgCIgaaqi8Yjzk' # Используйте ваш реальный токен
 DB_NAME = 'tours.db'
 
