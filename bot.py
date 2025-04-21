@@ -10,7 +10,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 import logging
 
-BOT_TOKEN = '8168035111:AAHy8HyZlwEYa9jB5iGoiSwllXh7Tc18bXw' # Используйте ваш реальный токен
+BOT_TOKEN = '7609813784:AAFgr-7Pt6frSqAVRWycbDHYlB1x-i6kzmw' # Используйте ваш реальный токен
 DB_NAME = 'tours.db'
 
 logging.basicConfig(level=logging.INFO) # Настройка логирования
